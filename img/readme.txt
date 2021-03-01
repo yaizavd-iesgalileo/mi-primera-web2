@@ -1,0 +1,1 @@
+En esta carpeta añadiremos las imágenes del proyecto
